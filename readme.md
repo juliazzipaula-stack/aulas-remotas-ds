@@ -2,9 +2,9 @@
 
 ## Sobre o Repositório
 
-Este repositório reúne duas atividades práticas desenvolvidas em **Python**, com o objetivo de aplicar os conceitos fundamentais da linguagem, como **entrada e saída de dados**, **conversão de tipos**, **estruturas condicionais** e **laços de repetição**.
+Este repositório contém duas atividades práticas desenvolvidas em **Python**, com o objetivo de reforçar os conceitos iniciais da linguagem, como **entrada de dados**, **conversão de tipos**, **condicionais** e **estruturas de repetição**.
 
-As atividades foram realizadas durante as aulas remotas da disciplina **Desenvolvimento de Sistemas** e têm como propósito o aperfeiçoamento do uso das funções `input()` e `int()`, das estruturas condicionais (`if` / `else`) e do controle de repetição com a função `range()`.
+As atividades fazem parte da disciplina **Desenvolvimento de Sistemas** e foram elaboradas para fixar o uso das funções `input()` e `int()`, das estruturas condicionais (`if` / `else`) e do laço `for` com a função `range()`.
 
 ---
 
@@ -14,7 +14,7 @@ As atividades foram realizadas durante as aulas remotas da disciplina **Desenvol
 
 #### Objetivo
 
-Exercitar o uso de **entrada de dados**, **conversão de tipos** e **estruturas condicionais** para determinar se o usuário é maior ou menor de idade.
+Praticar o uso das funções `input()` e `int()`, além da estrutura condicional `if/else`, para que o programa possa identificar se o usuário é maior ou menor de idade.
 
 #### Descrição
 
@@ -40,14 +40,32 @@ O programa deve:
 
 #### Objetivo
 
-Praticar o uso de **laços de repetição `for`** com a função **`range()`**, reforçando também o uso de **entrada e conversão de dados**.
+Exercitar o uso de **loops `for`** com a função **`range()`**, aplicando também a leitura e conversão de dados fornecidos pelo usuário.
 
 #### Descrição
 
 O programa deve:
 
 1. Solicitar um **número inteiro** ao usuário;
-2. Utilizar um **laço `for`** para exibir a **tabuada desse número**, de 1 a 10.
+2. Utilizar um **loop `for`** para exibir a **tabuada** desse número, do 1 ao 10.
+
+#### Exemplo de saída
+
+```
+Digite um número para ver a tabuada: 7  
+
+--- Tabuada do 7 ---  
+7 x 1 = 7  
+7 x 2 = 14  
+7 x 3 = 21  
+7 x 4 = 28  
+7 x 5 = 35  
+7 x 6 = 42  
+7 x 7 = 49  
+7 x 8 = 56  
+7 x 9 = 63  
+7 x 10 = 70  
+```
 
 #### Conceitos aplicados
 
@@ -67,10 +85,7 @@ O programa deve:
 ## Autora
 
 **Julia Novazzi de Paula**
-
 **Disciplina:** Desenvolvimento de Sistemas
-
 **Escola:** Etec Parque da Juventude
-
 **Ano:** 2025
 
