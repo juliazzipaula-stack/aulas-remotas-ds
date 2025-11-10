@@ -1,6 +1,4 @@
-# Pedido ao usuário um número e conversão para inteiro
-numero_str = input("Digite um número para ver a sua tabuada: ")
-numero = int(numero_str)
+número = int(input("Digite um número para ver a tabuada: "))
 
 print(f"-- Tabuada do {numero} --")
 
@@ -9,4 +7,4 @@ for i in range(1, 11):
     # Cálculo do resultado da multiplicação
     resultado = numero * i
     # Exibição do resultado formatado
-    print(f"{numero} x {i} = {resultado}")
+    print(f"{numero} x {i} = {resultado}")     ...
