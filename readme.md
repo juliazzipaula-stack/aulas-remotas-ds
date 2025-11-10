@@ -1,7 +1,3 @@
-Perfeito. Aqui está o texto revisado e formatado em **Markdown profissional**, pronto para colar diretamente no GitHub README:
-
----
-
 # Atividade Remota — Desenvolvimento de Sistemas
 
 ## Sobre o Repositório
@@ -78,6 +74,3 @@ O programa deve:
 
 **Ano:** 2025
 
----
-
-Quer que eu adicione uma pequena seção final de **“Como executar o projeto”**, explicando como rodar os arquivos pelo terminal (ex: `python atividade1.py`)? Isso deixaria o README ainda mais completo.
