@@ -7,4 +7,4 @@ for i in range(1, 11):
     # Cálculo do resultado da multiplicação
     resultado = numero * i
     # Exibição do resultado formatado
-    print(f"{numero} x {i} = {resultado}")     ...
+    print(f"{numero} x {i} = {resultado}")     
