@@ -1,60 +1,80 @@
-# Atividade Remota de Desenvolvimento de Sistemas 
+Perfeito. Aqui está o texto revisado e formatado em **Markdown profissional**, pronto para colar diretamente no GitHub README:
+
+---
+
+# Atividade Remota — Desenvolvimento de Sistemas
 
 ## Sobre o Repositório
-Este repositório contém duas atividades práticas desenvolvidas em **Python**, com o objetivo de exercitar os conceitos básicos da linguagem, como entrada de dados, conversão de tipos, condicionais e loops.
 
-As atividades fazem parte da disciplina **Desenvolvimento de Sistemas**, foram realizadas em uma aula remota e têm como foco o aprendizado dos comandos `input()`, `int()`, estruturas condicionais (`if`/`else`) e o uso da função `range()` em laços de repetição.
+Este repositório reúne duas atividades práticas desenvolvidas em **Python**, com o objetivo de aplicar os conceitos fundamentais da linguagem, como **entrada e saída de dados**, **conversão de tipos**, **estruturas condicionais** e **laços de repetição**.
+
+As atividades foram realizadas durante as aulas remotas da disciplina **Desenvolvimento de Sistemas** e têm como propósito o aperfeiçoamento do uso das funções `input()` e `int()`, das estruturas condicionais (`if` / `else`) e do controle de repetição com a função `range()`.
 
 ---
 
 ## Atividades
 
-### **Atividade 1 — Verificador de Maioridade (`atividade1.py`)**
+### Atividade 1 — Verificador de Maioridade (`atividade1.py`)
 
 #### Objetivo
-Praticar o uso das funções **`input()`** (para receber dados do usuário), **`int()`** (para converter texto em número) e a estrutura condicional **`if/else`** (para tomar decisões com base na idade informada).
 
-#### Desafio
+Exercitar o uso de **entrada de dados**, **conversão de tipos** e **estruturas condicionais** para determinar se o usuário é maior ou menor de idade.
+
+#### Descrição
+
 O programa deve:
-1. Perguntar o **nome** do usuário.  
-2. Perguntar a **idade** do usuário.  
-3. Verificar se a idade é **maior ou igual a 18**.  
-4. Exibir a mensagem:
-   - “Olá, [nome], você é **maior de idade**.” se idade ≥ 18  
-   - “Olá, [nome], você é **menor de idade**.” se idade < 18  
+
+1. Solicitar o **nome** do usuário;
+2. Solicitar a **idade**;
+3. Verificar se a idade é **maior ou igual a 18**;
+4. Exibir a mensagem correspondente:
+
+   * “Olá, [nome], você é **maior de idade**.”
+   * “Olá, [nome], você é **menor de idade**.”
 
 #### Conceitos aplicados
-- Entrada e saída de dados (`input()` / `print()`)
-- Conversão de tipos (`int()`)
-- Estruturas condicionais (`if`, `else`)
+
+* Entrada e saída de dados (`input()` / `print()`)
+* Conversão de tipos (`int()`)
+* Estruturas condicionais (`if`, `else`)
 
 ---
 
-### **Atividade 2 — Tabuada (`atividade2.py`)**
+### Atividade 2 — Tabuada (`atividade2.py`)
 
-####  Objetivo
-Praticar o uso de **loops `for`** com a função **`range()`** e reforçar o uso de **entrada e conversão de dados**.
+#### Objetivo
 
-#### Desafio
+Praticar o uso de **laços de repetição `for`** com a função **`range()`**, reforçando também o uso de **entrada e conversão de dados**.
+
+#### Descrição
+
 O programa deve:
-1. Solicitar um **número inteiro** ao usuário.  
-2. Utilizar um **loop `for`** para exibir a **tabuada desse número**, de 1 até 10.  
 
+1. Solicitar um **número inteiro** ao usuário;
+2. Utilizar um **laço `for`** para exibir a **tabuada desse número**, de 1 a 10.
 
 #### Conceitos aplicados
-- Laço de repetição (`for`)
-- Função `range()`
-- Conversão de tipos (`int()`)
+
+* Estrutura de repetição (`for`)
+* Função `range()`
+* Conversão de tipos (`int()`)
 
 ---
 
 ## Tecnologias Utilizadas
-- Linguagem: **Python**
-- Editor: **Visual Studio Code**
+
+* **Linguagem:** Python
+* **Editor:** Visual Studio Code
 
 ---
+
 ## Autora
-**Julia Novazi de Paula**  
-Matéria: Desenvolvimento de Sistemas
-Escola: Etec Parque da Juventude 
-Ano: 2025
+
+**Julia Novazzi de Paula**
+**Disciplina:** Desenvolvimento de Sistemas
+**Escola:** Etec Parque da Juventude
+**Ano:** 2025
+
+---
+
+Quer que eu adicione uma pequena seção final de **“Como executar o projeto”**, explicando como rodar os arquivos pelo terminal (ex: `python atividade1.py`)? Isso deixaria o README ainda mais completo.
