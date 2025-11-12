@@ -2,9 +2,9 @@
 
 ## Sobre o Repositório
 
-Este repositório contém duas atividades práticas desenvolvidas em **Python**, com o objetivo de reforçar os conceitos iniciais da linguagem, como **entrada de dados**, **conversão de tipos**, **condicionais** e **estruturas de repetição**.
+Este repositório contém quatro atividades práticas desenvolvidas em **Python**, com o objetivo de reforçar os conceitos iniciais da linguagem, como **entrada de dados**, **conversão de tipos**, **condicionais**, **estruturas de repetição**, **funções** e **orientação a objetos**.
 
-As atividades fazem parte da disciplina **Desenvolvimento de Sistemas** e foram elaboradas para fixar o uso das funções `input()` e `int()`, das estruturas condicionais (`if` / `else`) e do laço `for` com a função `range()`.
+As atividades fazem parte da disciplina **Desenvolvimento de Sistemas** e foram elaboradas para fixar o uso das principais estruturas e recursos da linguagem Python.
 
 ---
 
@@ -72,6 +72,53 @@ Digite um número para ver a tabuada: 7
 * Estrutura de repetição (`for`)
 * Função `range()`
 * Conversão de tipos (`int()`)
+
+---
+
+### Atividade 3 — Função Calculadora (`funcao_calculadora.py`)
+
+#### Objetivo
+
+Praticar a criação e utilização de **funções em Python** com parâmetros e retorno de valores.
+
+#### Descrição
+
+O programa deve conter uma função chamada `calculadora` que receba três parâmetros:
+
+* `numero1`
+* `numero2`
+* `operacao` (pode ser: `'+'`, `'-'`, `'*'`, `'/'`)
+
+A função deve retornar o resultado da operação matemática indicada.
+
+#### Conceitos aplicados
+
+* Definição de funções (`def`)
+* Parâmetros e retorno (`return`)
+* Estruturas condicionais (`if`, `elif`, `else`)
+
+---
+
+### Atividade 4 — Herança de Veículos (`heranca_veiculos.py`)
+
+#### Objetivo
+
+Compreender e aplicar os conceitos de **Programação Orientada a Objetos (POO)**, com foco em **herança**.
+
+#### Descrição
+
+O programa deve conter:
+
+1. Uma **classe base** chamada `Veiculo`, com atributos como `marca` e `modelo`;
+2. Uma **classe filha** chamada `Carro`, que herda de `Veiculo` e adiciona um novo atributo (exemplo: `numero_portas`);
+3. Métodos que exibam as informações de cada objeto criado.
+
+#### Conceitos aplicados
+
+* Classes e objetos (`class`)
+* Construtores (`__init__`)
+* Herança (`super()`)
+* Encapsulamento básico
 
 ---
 
