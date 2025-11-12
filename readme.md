@@ -132,7 +132,10 @@ O programa deve conter:
 ## Autora
 
 **Julia Novazzi de Paula**
+
 **Disciplina:** Desenvolvimento de Sistemas
+
 **Escola:** Etec Parque da Juventude
+
 **Ano:** 2025
 
